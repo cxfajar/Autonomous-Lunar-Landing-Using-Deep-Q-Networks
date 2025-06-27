@@ -1,3 +1,7 @@
+
+
+---
+
 ```markdown
 # 🚀 Autonomous Lunar Landing Using Deep Q-Networks (DQN)
 
@@ -51,7 +55,21 @@ You can visualize:
 
 ---
 
+## 📂 File Structure
 
+```
+
+📦 lunar-lander-dqn/
+├── Autonomous Lunar Landing Using Deep Q-Networks (DQN).ipynb
+├── model/
+│   └── dqn\_agent.py (if modularized)
+├── assets/
+│   └── lunar\_lander.gif
+└── README.md
+
+````
+
+---
 
 ## ▶️ How to Run
 
@@ -107,4 +125,7 @@ This project is inspired by the OpenAI Gym challenge and reinforces concepts tau
 
 Star the repo, fork it, and try building your own drone or lander controller with DQN! Every line of code brings you one step closer to mastering reinforcement learning.
 
+```
 
+Would you like a `requirements.txt` and a preview `.gif` of the lunar lander environment added too?
+```
