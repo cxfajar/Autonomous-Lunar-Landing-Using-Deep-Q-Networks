@@ -1,8 +1,3 @@
-
-
----
-
-```markdown
 # 🚀 Autonomous Lunar Landing Using Deep Q-Networks (DQN)
 
 This project explores the development of an **autonomous control system** using **Deep Q-Learning (DQN)**, applied to a simulated lunar landing environment. The goal is to train an intelligent agent that can safely land a spacecraft on the moon, dealing with gravity, momentum, and obstacles — all without any prior knowledge of the environment.
@@ -55,19 +50,9 @@ You can visualize:
 
 ---
 
-## 📂 File Structure
 
-```
 
-📦 lunar-lander-dqn/
-├── Autonomous Lunar Landing Using Deep Q-Networks (DQN).ipynb
-├── model/
-│   └── dqn\_agent.py (if modularized)
-├── assets/
-│   └── lunar\_lander.gif
-└── README.md
 
-````
 
 ---
 
